@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteExtensions", "src\ByteExtensions\ByteExtensions.csproj", "{55EC2531-DFE0-4A12-986D-9E553F555B46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{991623AF-B127-4624-A17D-435AC4533696}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4DB88C6D-8C68-46DF-8021-EBB48A88ECE9}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{48635368-4DB5-4CF8-90CD-2A6427C052A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EC2531-DFE0-4A12-986D-9E553F555B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EC2531-DFE0-4A12-986D-9E553F555B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EC2531-DFE0-4A12-986D-9E553F555B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EC2531-DFE0-4A12-986D-9E553F555B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55EC2531-DFE0-4A12-986D-9E553F555B46} = {991623AF-B127-4624-A17D-435AC4533696}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38FCC33B-3E86-4DE4-9323-327843F2222A}
+	EndGlobalSection
+EndGlobal
